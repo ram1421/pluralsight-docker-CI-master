@@ -11,3 +11,7 @@ All of the files included in the .zip file (available to Plus subscribers) shoul
 Initializing a Git repo and making a remote of it on GitHub are explained in Module 2 of the course.
 
 The viewer should have Git installed and have a GitHub account.
+
+
+
+curl -H "Content-Type:application/json" --data'{"build":true}' -X POST https://registry.hub.docker.com/u/bhargava381/pluralsight-docker-ci-master/trigger/4448853b-626d-4f69-889d-75247edcbc27/
