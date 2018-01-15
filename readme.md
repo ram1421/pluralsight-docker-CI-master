@@ -14,4 +14,4 @@ The viewer should have Git installed and have a GitHub account.
 
 
 
-curl -H "Content-Type:application/json" --data'{"build":true}' -X POST https://registry.hub.docker.com/u/bhargava381/pluralsight-docker-ci-master/trigger/4448853b-626d-4f69-889d-75247edcbc27/
+
